@@ -2,7 +2,7 @@
 
 <hr>
 
-<img loading="lazy" src="https://image.flaticon.com/icons/png/512/524/524545.png" alt=""  style="height: 50px;">
+<img loading="lazy" src="https://image.flaticon.com/icons/png/512/524/524545.png" alt="" style="max-width:100%;height: 50px;">
 
 💻 I've been learning HTML, CSS and JavaScript for a while.
 💪 I want to improve myself on the front-end technologies.
