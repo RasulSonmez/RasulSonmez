@@ -1,4 +1,4 @@
-### Hi there Rasul 👋
+### Hi there, I'm Rasul 👋
 
 <hr>
 
