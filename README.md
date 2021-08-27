@@ -2,8 +2,7 @@
 
 <hr>
 
-<img src="https://user-images.githubusercontent.com/58372444/131184523-98dfaebf-bffa-4485-898b-92e0258940ce.png
-" alt="HTML" style="max-width:100%;">
+<img loading="lazy" src="https://image.flaticon.com/icons/png/512/2305/2305978.png" alt="">
 
 💻 I've been learning HTML, CSS and JavaScript for a while.
 💪 I want to improve myself on the front-end technologies.
