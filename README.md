@@ -12,3 +12,5 @@
 - 💣 I love to explore, learn and create something new constantly.
 - 🚬 I’m currently learning Typescript and React.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
+
+https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47jipeqa9yjfi33s0tuv1iwqs1qfbfjvay503mnvxp&rid=giphy.gif&ct=g
