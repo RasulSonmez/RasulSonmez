@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Rasul 👋
 
 <hr>
 
@@ -7,8 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- :computer: I've been learning HTML, CSS and JavaScript for a while.
-- :muscle: I want to improve myself on the front-end technologies.
-- :heart: I love to explore, learn and create something new constantly. 
-- :zap: There is a huge community and I'm excited about being a little part of this :rocket:
-- :postbox: Reach me: [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
+- 🖥️ I've been learning HTML, CSS and JavaScript for my own ideals for a while.
+- 🚀 I want to improve myself on the front-end technologies.
+- 💣 I love to explore, learn and create something new constantly.
+- 🚬 I’m currently learning Typescript and React.
+- :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
