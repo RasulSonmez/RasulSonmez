@@ -13,4 +13,4 @@
 - 🚬 I’m currently learning Typescript and React.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
 
-https://media1.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=ecf05e47jipeqa9yjfi33s0tuv1iwqs1qfbfjvay503mnvxp&rid=giphy.gif&ct=g
+<a href="#"><img align="right" src="https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp" width="200 " height="200" style="max-width:100%;"></a>
