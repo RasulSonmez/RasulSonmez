@@ -9,8 +9,8 @@
 
 - 🖥️ I've been learning HTML, CSS and JavaScript for my own ideals for a while.
 - 🚀 I want to improve myself on the front-end technologies.
-- 💣 I love to explore, learn and create something new constantly.
-- 🚬 I’m currently learning Typescript and React.
+- 💣 I like to explore new technologies and develop software solutions and quick hacks.
+- 🚬 I'm on track for learning more about Typescript and React.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp" width="200 " height="200" style="max-width:100%;"></a>
