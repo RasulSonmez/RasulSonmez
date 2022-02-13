@@ -12,7 +12,7 @@
 - 💣 I like to explore new technologies and develop software solutions and quick hacks.
 - 🚬 I'm on track for learning more about Typescript and React.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
-- :postbox: Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
+- :mail: Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
 - 🕸️: my website [www.rasulsonmez.com] <a href="www.rasulsonmez.com" target="_blank"></a>
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp" width="200 " height="200" style="max-width:100%;"></a>
