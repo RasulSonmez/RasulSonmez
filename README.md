@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![ReactJs](https://img.shields.io/badge/Reactjs-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 - 🖥️ I'm mproving skills HTML, CSS and JavaScript for my own ideals.
 - 🚀 Someone who comes from an unrelated life and wants to improve himself as a front-end developer.
