@@ -8,10 +8,10 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-- 🖥️ I'm mproving skills HTML, CSS and JavaScript for my own ideals.
-- 🚀 Someone who comes from an unrelated life and wants to improve himself as a front-end developer.
+- 🖥️ I'm mproving skills HTML, CSS, JS and C# for my own ideals.
+- 🚀 Someone who comes from an unrelated life and wants to improve himself as a full-stack developer.
 - 💣 I like to explore new technologies and develop software solutions and quick hacks.
-- 🚬 I'm on track for learning more about Typescript and React.
+- 🚬 I'm on track for learning more about C#, .Net Core and Reactjs.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
 - 📧 Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
 - 🕸️: my website [www.rasulsonmez.com] <a href="www.rasulsonmez.com" target="_blank"></a>
