@@ -22,6 +22,6 @@
 - 🚬 I'm on track for learning more about C#, .Net Core and Reactjs.
 - :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
 - 📧 Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
-- 🕸️: my website [www.rasulsonmez.com] <a href="www.rasulsonmez.com" target="_blank"></a>
+- 🕸️: my website [rasulsonmez.zoominsoft.com] <a href="www.rasulsonmez.zoominsoft.com" target="_blank"></a>
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp" width="200 " height="200" style="max-width:100%;"></a>
