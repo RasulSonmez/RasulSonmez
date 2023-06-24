@@ -20,8 +20,19 @@
 - 🚀 Someone who comes from an unrelated life and wants to improve himself as a full-stack developer.
 - 💣 I like to explore new technologies and develop software solutions and quick hacks.
 - 🚬 I'm on track for learning more about C#, .Net Core and Reactjs.
-- :postbox: Reach me: Instagram [@rasulsönmez](https://www.instagram.com/rsl.snmz0/)
+
+- 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsl.snmz0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rasul-s%C3%B6nmez-94903023b/) 
 - 📧 Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
 - 🕸️: my website [https://rasulsonmez.zoominsoft.com/] <a href="https://rasulsonmez.zoominsoft.com/" target="_blank"></a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RasulSonmez&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RasulSonmez&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RasulSonmez&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <a href="#"><img align="right" src="https://i.giphy.com/media/PiQejEf31116URju4V/giphy.webp" width="200 " height="200" style="max-width:100%;"></a>
