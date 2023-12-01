@@ -16,10 +16,11 @@
 
 
 
-- 🖥️ I'm improving skills HTML, CSS, JS and C# .Net Core for my own ideals.
+- 🖥️ I'm experienced HTML, CSS, JS and C# .Net Core for my own ideals.
 - 🚀 Someone who comes from an unrelated life and wants to improve himself as a full-stack developer.
 - 💣 I like to explore new technologies and develop software solutions and quick hacks.
-- 🚬 I'm on track for learning more about C#, .Net Core and Reactjs.
+- 💬  Ask me about anything related to HTML, CSS, JS and C# .Net Core
+- 🚬 I'm on track for learning more about C#, .Net Core, Reactjs and React Native.
 
 - 
 ## 🌐 Socials:
