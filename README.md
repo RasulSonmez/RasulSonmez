@@ -26,7 +26,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsl.snmz0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rasul-s%C3%B6nmez-94903023b/) 
 - 📧 Reach me: email [rasulsonmez0@gmail.com](rasulsonmez0@gmail.com)
-- 🕸️: my website [https://rasulsonmez.zoominsoft.com/] <a href="https://rasulsonmez.zoominsoft.com/" target="_blank"></a>
+- 🕸️: my website [https://rasulsonmez.com/] <a href="https://rasulsonmez.zoominsoft.com/" target="_blank"></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
